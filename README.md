@@ -69,6 +69,7 @@ Feel free to use, modify, and distribute the code with proper attribution.
 ```bash
 git clone https://github.com/your-username/ecg-arrhythmia-gass.git
 cd ecg-arrhythmia-gass
+```
 
 ---
 
@@ -91,4 +92,5 @@ To install all required Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
