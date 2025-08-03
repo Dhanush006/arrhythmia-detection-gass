@@ -1,0 +1,18 @@
+# Core scientific packages
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+
+# Machine learning
+scikit-learn
+torch
+torchvision
+
+# Image processing
+opencv-python
+Pillow
+
+# ECG data processing
+wfdb
