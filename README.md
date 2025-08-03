@@ -1,6 +1,6 @@
 # ECG Arrhythmia Detection using Gaussian Assisted Signal Smoothing (GASS)
 
-![GASS Signal Demo](images/gass.png)
+![GASS Signal Demo](images/GASS_CNN_SVM_Flow_white_bg.png)
 
 ## 🩺 Overview
 
